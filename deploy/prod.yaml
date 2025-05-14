@@ -7,5 +7,5 @@ metadata:
 description: prod
 requireApproval: true
 gke:
-  cluster: projects/gcpdemoproject/locations/us-central1/clusters/cluster-2
+  cluster: projects/gcpdemoproject-459815/locations/us-central1/clusters/cluster-2
 
